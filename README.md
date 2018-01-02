@@ -1,4 +1,7 @@
 # gitCloneTest
 create stupid a boss perfers svn
 
-create test
+
+
+creating a new branch is quick and simple.
+
